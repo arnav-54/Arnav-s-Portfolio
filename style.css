@@ -60,6 +60,8 @@ html{
     cursor: pointer;
     transition: .4s;
     margin-bottom:10px;
+    display:flex;
+    align-items:center;
    
 }
 .btn>i{
